@@ -1,4 +1,4 @@
-![rrr_Momvvvv111ent](https://github.com/Bader-dine/Detection-and-Tracking-of-Dynamic-Objects-in-Video/assets/121392319/b00f5179-ccd1-46c4-b575-94879447eda1)# Detection and Tracking of Dynamic Objects in Video
+# Detection and Tracking of Dynamic Objects in Video
 
 Locate the initial object, followed by updating its position with each subsequent image.
 Video processing through concepts such as object detection, correlation, and Kalman filtering to ensure continuity of tracking
